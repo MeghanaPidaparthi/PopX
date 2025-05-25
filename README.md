@@ -6,14 +6,9 @@
 
 ## Table of Contents
 - [Overview](#overview)  
-- [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Technologies Used](#technologies-used)  
-- [Folder Structure](#folder-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)
+- [Features](#features)     
+- [Tech Stack](#tech-stack)  
+- [Installation](#installation) 
 
 ---
 
